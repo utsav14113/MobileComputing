@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ObjectiveQuiz</string>
+    <string name="question">"Prime Or Not?"</string>
+    <string name="trueText">True</string>
+    <string name="falseText">False</string>
+    <string name="nextText">Next</string>
+    <string name="hintText">Hint</string>
+    <string name="cheatText">Cheat</string>
+    <string name="showHint">Show Hint</string>
+    <string name="showCheat">Show Cheat</string>
+    <string name="title_activity_hint">HintActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+</resources>
